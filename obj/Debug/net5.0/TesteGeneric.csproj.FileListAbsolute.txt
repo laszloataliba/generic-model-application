@@ -1,0 +1,16 @@
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.exe
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.deps.json
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.runtimeconfig.json
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.runtimeconfig.dev.json
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.dll
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\ref\TesteGeneric.dll
+C:\Users\lataliba\Desktop\TesteGeneric\bin\Debug\net5.0\TesteGeneric.pdb
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.csprojAssemblyReference.cache
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.AssemblyInfoInputs.cache
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.AssemblyInfo.cs
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.csproj.CoreCompileInputs.cache
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.dll
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\ref\TesteGeneric.dll
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.pdb
+C:\Users\lataliba\Desktop\TesteGeneric\obj\Debug\net5.0\TesteGeneric.genruntimeconfig.cache
